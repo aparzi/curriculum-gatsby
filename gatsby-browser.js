@@ -5,3 +5,6 @@
  */
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'materialize-css/dist/css/materialize.min.css';
+import './src/styles/global.css'
+import './src/styles/lime.css'

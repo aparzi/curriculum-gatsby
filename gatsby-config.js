@@ -1,8 +1,34 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `angeloparziale.it`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    author: `AParziale`,
+    menuLinks: [
+      {
+        name: 'Home',
+        link: '/'
+      },
+      {
+        name: 'Chi sono',
+        link: '#about'
+      },
+      {
+        name: 'Skills',
+        link: '#skills'
+      },
+      {
+        name: 'Lavori',
+        link: '#works'
+      },
+      {
+        name: 'Istruzione',
+        link: '#education'
+      },
+      {
+        name: 'Contatti',
+        link: '#contact-form'
+      },
+    ]
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
