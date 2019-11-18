@@ -1,6 +1,6 @@
 {
   "hi": "Ciao, Angelo",
-  "welcome": "Benvenuto in Gatsby Starter!",
   "buildSomethingGreat": "Stai facendo qualcosa di fighissimo",
-  "ourShopIn": "Il nostro shop in {{city}}"
+  "ourShopIn": "Il nostro shop in {{city}}",
+  "welcome": "Mi chiamo Angelo Parziale e sono uno sviluppatore software, in azienda infatti, ricopro il ruolo di full-stack Developer. Ho una forte passione per il web e per il mondo mobile, difatti mi piace specializzarmi con tecnolegie che riguardano questi ambiti. Fuori dal contesto lavorativo invece, gioco a calcetto con gli amici, seguo il calcio e la formula 1. Quindi, potete contattarmi non solo per questioni lavorative ma anche per stringere un nuovo rapporto d'amicizia."
 }

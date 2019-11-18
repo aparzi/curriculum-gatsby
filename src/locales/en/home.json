@@ -1,6 +1,6 @@
 {
   "hi": "Hi there",
-  "welcome": "Welcome to this Gatsby starter!",
   "buildSomethingGreat": "Now build something nice.",
-  "ourShopIn": "Our Shop in {{city}}"
+  "ourShopIn": "Our Shop in {{city}}",
+  "welcome": "My name is Angelo Parziale and I am a software developer, in fact I hold the role of full-stack Developer in the company. I have a strong passion for the web and for the mobile world, in fact I like to specialize with technologies that relate to these areas. Out of the work context instead, I go to play soccer with friends, I follow football and formula 1. So, you can contact me not only for work matters but also to forge a new friendship relationship."
 }

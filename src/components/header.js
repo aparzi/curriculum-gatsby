@@ -8,7 +8,7 @@ import imgEng from "../images/languages/england.png"
 
 const Header = ({ menuLinks }) => {
   const alternateLinks = useContext(AlternateLinksContext)
-  const { t, i18n } = useTranslation("common")
+  const { i18n } = useTranslation("common")
 
   return (
     <header id='header-top'>
