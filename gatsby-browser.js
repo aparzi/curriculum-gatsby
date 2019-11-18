@@ -4,7 +4,11 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'materialize-css/dist/css/materialize.min.css';
-import './src/styles/global.css'
-import './src/styles/lime.css'
+require('bootstrap/dist/css/bootstrap.min.css');
+require('materialize-css/dist/css/materialize.min.css');
+require('./src/styles/global.css');
+require('./src/styles/lime.css');
+
+const wrapWithI18nProvider = require("./src/components/wrapWithI18nProvider")
+  .wrapWithI18nProvider
+exports.wrapPageElement = wrapWithI18nProvider
