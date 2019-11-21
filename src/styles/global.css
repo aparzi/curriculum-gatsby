@@ -105,7 +105,7 @@ Primary use:	CV/Resume, Portfolio, Perosnal Website
 }
 body {
     /*background: #e3e3e3;*/
-    background: #131217;
+    background: rgb(40, 44, 52);;
     font-family: 'Roboto', sans-serif;
 }
 .fix {
@@ -1087,4 +1087,15 @@ table#personalEquipment tbody tr td p {
 
 .justify {
     text-align: justify;
+}
+
+.custom-img-skill {
+    width: 80px;
+    height: 80px;
+    left: 0
+}
+
+.custom-div-skill {
+    border: none;
+    border-bottom: 1px solid #e0e0e0;
 }

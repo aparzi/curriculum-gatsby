@@ -6,6 +6,7 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 import { useTranslation } from "react-i18next"
 import About from "./about"
+import Skills from "./skills"
 
 const IndexPage = props => {
   const { t, i18n } = useTranslation("home")
@@ -13,25 +14,7 @@ const IndexPage = props => {
     <Layout alternateLink={props.alternateLinks}>
       <SEO title="Home" />
       <About/>
-      {/*<h1>{t("hi")}</h1>*/}
-      {/*<p>{t("welcome")}</p>*/}
-      {/*<p>{t("buildSomethingGreat")}</p>*/}
-      {/*<ul>*/}
-      {/*  {props.data.allSanityShop.edges.map(edge => (*/}
-      {/*    <li>*/}
-      {/*      <Link*/}
-      {/*        to={`/${i18n.language}/${t("common:shopSlug")}/${*/}
-      {/*          edge.node.slug.translate*/}
-      {/*        }`}*/}
-      {/*      >*/}
-      {/*        {t("ourShopIn", { city: edge.node.name.translate })}*/}
-      {/*      </Link>*/}
-      {/*    </li>*/}
-      {/*  ))}*/}
-      {/*</ul>*/}
-      {/*<div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>*/}
-      {/*  <Image />*/}
-      {/*</div>*/}
+      <Skills/>
     </Layout>
   )
 }

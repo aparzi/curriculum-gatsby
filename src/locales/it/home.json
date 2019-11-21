@@ -1,6 +1,15 @@
 {
-  "hi": "Ciao, Angelo",
-  "buildSomethingGreat": "Stai facendo qualcosa di fighissimo",
-  "ourShopIn": "Il nostro shop in {{city}}",
-  "welcome": "Mi chiamo Angelo Parziale e sono uno sviluppatore software, in azienda infatti, ricopro il ruolo di full-stack Developer. Ho una forte passione per il web e per il mondo mobile, difatti mi piace specializzarmi con tecnolegie che riguardano questi ambiti. Fuori dal contesto lavorativo invece, gioco a calcetto con gli amici, seguo il calcio e la formula 1. Quindi, potete contattarmi non solo per questioni lavorative ma anche per stringere un nuovo rapporto d'amicizia."
+  "welcome": "Mi chiamo Angelo Parziale e sono uno sviluppatore software, in azienda infatti, ricopro il ruolo di full-stack Developer. Ho una forte passione per il web e per il mondo mobile, difatti mi piace specializzarmi con tecnolegie che riguardano questi ambiti. Fuori dal contesto lavorativo invece, gioco a calcetto con gli amici, seguo il calcio e la formula 1. Quindi, potete contattarmi non solo per questioni lavorative ma anche per stringere un nuovo rapporto d'amicizia.",
+
+  "framework": "Ho una conoscenza approfondita di PHP, Java, Javascript. Ho lavorato e lavoro con framework come Laravel, Slim, Spring / Spring boot. Invece, per il frontend conosco Angular 2+, Angularjs. A scopo personale ho usato anche NodeJs e ReactJs.",
+
+  "database": "Spesso lavoro ed ho una buona conoscenza dei database relazionali, tra i quali: Oracle, SqlServer, PhpMyAdmin. Invece, per quanto riguarda quelli non relazionali utilizzo MongoDB con l'interfaccia grafica Robo3T.",
+
+  "mobile": "Ho realizzato delle app per scopo personale o per esami universitari. Le applicazioni che ho realizzato sono native per android altre invece ibride usando Ionic e in linea teorica ho visto anche React Native.",
+
+  "wordpress": "Ho portato a termine piccoli progetti con wordpress, come blog oppure siti vetrina. Raramente ho usato altri cms per&ograve; al livello teorico conosco le differenze.",
+
+  "jetbrains": "Utilizzo come IDE solo prodotti dell' azienda JetBrains, ho avuto la fortuna di provare i loro prodotti e ora non posso pi&ugrave; farne a meno. I miei preferiti sono PhpStorm, WebStorm, IntelliJ Idea ed Android Studio.",
+
+  "git": "Ogni mio progetto inizia con il comando: <code>git init</code>. Utilizzo git da linea di comando e la sua interfaccia web github."
 }

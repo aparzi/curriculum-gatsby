@@ -1,6 +1,15 @@
 {
-  "hi": "Hi there",
-  "buildSomethingGreat": "Now build something nice.",
-  "ourShopIn": "Our Shop in {{city}}",
-  "welcome": "My name is Angelo Parziale and I am a software developer, in fact I hold the role of full-stack Developer in the company. I have a strong passion for the web and for the mobile world, in fact I like to specialize with technologies that relate to these areas. Out of the work context instead, I go to play soccer with friends, I follow football and formula 1. So, you can contact me not only for work matters but also to forge a new friendship relationship."
+  "welcome": "My name is Angelo Parziale and I am a software developer, in fact I hold the role of full-stack Developer in the company. I have a strong passion for the web and for the mobile world, in fact I like to specialize with technologies that relate to these areas. Out of the work context instead, I go to play soccer with friends, I follow football and formula 1. So, you can contact me not only for work matters but also to forge a new friendship relationship.",
+
+  "framework": "I have a thorough knowledge of PHP, Java, Javascript. I worked with frameworks like Laravel, Slim, Spring / Spring boot. Instead, for the frontend, I know Angular 2+, Angularjs.  For personal use I have also used NodeJs and ReactJs.",
+
+  "database": "I often work and have a good knowledge of relational databases, including: Oracle, SqlServer, PhpMyAdmin. Instead, as far as non-relational ones are concerned, I know MongoDB with the Robo3T graphic interface.",
+
+  "mobile": "I've made apps for personal purposes or for university exams. The applications I've created are native to android, others are hybrid using Ionic and ReactJS.",
+
+  "wordpress": "I completed small projects with wordpress, such as blogs or showcase sites. I rarely used other cms but at the theoretical level I know the differences.",
+
+  "jetbrains": "As a development environment (IDE) I use only JetBrains products, I was fortunate to use their products and I can't longer do without. My favorites are PhpStorm, WebStorm, IntelliJ Idea and Android Studio.",
+
+  "git": "Each of my projects begins with the command: <code>git init</code>. I use git from command line and its github web interface."
 }
