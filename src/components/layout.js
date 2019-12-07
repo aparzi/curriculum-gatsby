@@ -31,11 +31,10 @@ const Layout = ({ children }) => {
       <Header menuLinks={data.site.siteMetadata.menuLinks} />
       <div>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        {/*<footer>*/}
+        {/*  <span style={{color: 'white'}}>© {new Date().getFullYear()}, Built with{` `}</span>*/}
+        {/*  <a href="https://www.gatsbyjs.org" target='_blank' rel="noopener noreferrer">Gatsby</a>*/}
+        {/*</footer>*/}
       </div>
     </>
   )
