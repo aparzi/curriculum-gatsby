@@ -13,5 +13,16 @@
 
   "git": "Each of my projects begins with the command: <code>git init</code>. I use git from command line and its github web interface.",
 
-  "title_contact": "Contact me"
+  "title_contact": "Contact me",
+  "title_education": "Education",
+  "title_diploma": "ELECTRONICS TECHNICIAN",
+  "title_certificate": "INFORMATIC OPERATOR",
+  "title_university": "UNIVERSITY OF MOLISE",
+  "title_landing_page": "LANDING PAGE",
+  "non_terminato": "in progress",
+
+  "description_diploma": "Graduation of the degree in electronic operator at the Istituto Professionale Industria e Artigianato located in Campobasso (CB).",
+  "description_certificate": "Completion of certificate in computer operator. During the course I learned advanced knowledge of the entire Microsoft Office suite.",
+  "description_university": "In the year 2014 I joined Molise University and currently I'm continuing my IT course.",
+  "description_landing_page": "Following a course purchased on the Udemy digital platform, I acquired the certification on how to create a Landing Page, discovering above all the aims and advantages."
 }

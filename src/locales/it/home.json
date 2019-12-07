@@ -13,5 +13,17 @@
 
   "git": "Ogni mio progetto inizia con il comando: <code>git init</code>. Utilizzo git da linea di comando e la sua interfaccia web github.",
 
-  "title_contact": "Contattami"
+  "title_contact": "Contattami",
+  "title_education": "Istruzione",
+  "title_diploma": "PERITO ELETTRONICO",
+  "title_certificate": "OPERATORE INFORMATICO",
+  "title_university": "UNIVERSITÀ DEGLI STUDI DEL MOLISE",
+  "title_landing_page": "LANDING PAGE",
+  "non_terminato": "in corso",
+
+  "description_diploma": "Conseguimento del diploma in operatore elettronico, presso l' Istituto Professionale Industria e Artigianato situato a Campobasso (CB).",
+  "description_certificate": "Conseguimento del certificato in operatore informatico. Durante il corso ho appreso conoscenze su tutto il pacchetto Office e concetti base di programmazione.",
+  "description_university": "Nell'anno 2014 mi sono iscritto all'università degli studi del Molise e attualmente sto continuando il mio percorso di studi in Informatica.",
+  "description_landing_page": "In seguito ad un corso acquistato sulla piattaforma digitale Udemy, ho acquisito la certificazione su come creare una Landing Page, scoprendo soprattutto obiettivi e vantaggi"
+
 }
