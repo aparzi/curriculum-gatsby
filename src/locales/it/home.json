@@ -11,5 +11,7 @@
 
   "jetbrains": "Utilizzo come IDE solo prodotti dell' azienda JetBrains, ho avuto la fortuna di provare i loro prodotti e ora non posso pi&ugrave; farne a meno. I miei preferiti sono PhpStorm, WebStorm, IntelliJ Idea ed Android Studio.",
 
-  "git": "Ogni mio progetto inizia con il comando: <code>git init</code>. Utilizzo git da linea di comando e la sua interfaccia web github."
+  "git": "Ogni mio progetto inizia con il comando: <code>git init</code>. Utilizzo git da linea di comando e la sua interfaccia web github.",
+
+  "title_contact": "Contattami"
 }
