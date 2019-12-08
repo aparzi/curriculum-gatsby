@@ -5,6 +5,8 @@
   "version": "1.0.0",
   "author": "AParziale",
   "dependencies": {
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/icons": "^4.5.1",
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.4.0",
     "gatsby": "^2.13.25",
@@ -27,7 +29,8 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-i18next": "^10.11.4",
-    "react-tooltip": "^3.11.1"
+    "react-tooltip": "^3.11.1",
+    "react-vertical-timeline-component": "^2.5.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
