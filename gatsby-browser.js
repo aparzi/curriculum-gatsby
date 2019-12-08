@@ -11,6 +11,7 @@ require('./src/styles/timeline.css');
 require('./src/styles/animate.css');
 require('./src/styles/nav.css');
 require('./src/styles/global.css');
+require('./src/styles/responsive.css');
 require('./src/styles/lime.css');
 
 require('jquery/dist/jquery.min');

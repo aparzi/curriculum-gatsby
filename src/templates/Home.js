@@ -8,6 +8,7 @@ import Skills from "./skills"
 import Footer from "./footer"
 import ReactTooltip from 'react-tooltip'
 import Istruzione from "./istruzione"
+import Instagram from "./instagram"
 
 const IndexPage = props => {
   return (
@@ -15,6 +16,7 @@ const IndexPage = props => {
       <SEO title="Home" />
       <About/>
       <Skills/>
+      {/*<Instagram/>*/}
       <Istruzione/>
       <Footer/>
       <ReactTooltip />
